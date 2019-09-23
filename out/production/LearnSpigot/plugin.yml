@@ -1,0 +1,6 @@
+name: TestPlugin
+version: 1.0
+description: Extern
+author: YourName
+main: de.yourName.Core.Main
+api-version: 1.14

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LearnSpigot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LearnSpigot_jar</output-path>
+    <root id="archive" name="LearnSpigot.jar">
+      <element id="module-output" name="LearnSpigot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-1.14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
