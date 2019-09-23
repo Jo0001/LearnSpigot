@@ -1,0 +1,2 @@
+# LearnSpigot
+Mini Spigotplugin tutorial
